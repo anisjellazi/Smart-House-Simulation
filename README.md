@@ -18,10 +18,6 @@ Designed and implemented a simulation of a smart house system utilizing Cisco Pa
   - Centralized IoT management via Home Gateway.
   - Devices communicate on the `192.168.1.x` network.
 
-## Network Layout
-
-![Smart House Layout](./path-to-your-image.png)
-
 ## Technologies Used
 
 - Cisco Packet Tracer
@@ -34,9 +30,4 @@ Designed and implemented a simulation of a smart house system utilizing Cisco Pa
 
 - Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
 
-### Setup
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Smart-House-Simulation.git
-   cd Smart-House-Simulation
